@@ -1,2 +1,2 @@
-# Basic-Excercises
+# Basics
 Basics of C#
